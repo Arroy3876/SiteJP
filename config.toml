@@ -2,7 +2,7 @@
 
 #-------------------------------
 # General Site Settings
-baseURL = "https://arroy3876.github.io/SiteJP/"
+baseURL = "https://www.jeanpierrearroyo.fr/"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 title = "Humeurs d'un progressiste"
