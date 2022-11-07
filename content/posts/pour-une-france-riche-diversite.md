@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour une France riche de sa diversité culturelle
 date:   2021-09-26 15:00:00 +0100
-image:  '/images/diversite.jpeg'
+image:  'images/diversite.jpeg'
 ---
 A quelques mois de l’échéance présidentielle, certains candidats ou futurs candidats rivalisent de propositions plus démagogiques les unes que les autres.
 

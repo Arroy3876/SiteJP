@@ -1,7 +1,7 @@
 ---
 title:  Pour une certaine vision du progressisme
 date:   2021-07-12 15:00:00 +0100
-image:  '/images/Pour_une_réforme_fiscale_de_fond.jpg'
+image:  'images/Pour_une_réforme_fiscale_de_fond.jpg'
 ---
 Je me définis comme progressiste parce que je pense que le monde devient meilleur par les valeurs de progrès. 
 

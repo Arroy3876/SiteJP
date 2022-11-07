@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour une réforme fiscale de fond
 date:   2021-06-26 15:00:00 +0100
-image:  '/images/stats_eco.jpg'
+image:  'images/stats_eco.jpg'
 ---
 En France, nos entreprises font face à une fiscalité plus importante que dans les autres pays européens. Pour contrer cette concurrence, les mesures gouvernementales s’enchainent comme le CICE ou le CIR (Crédit Impot Recherche). Ces mesures compensent en partie le déséquilibre du montant des cotisations entre l’hexagone et nos voisins européens mais demandent aux entreprises un effort accru en matière de gestion qui bénéficie surtout aux plus grandes entreprises.
 

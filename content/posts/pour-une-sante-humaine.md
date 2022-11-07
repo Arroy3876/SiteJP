@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour une politique de santé humanisée
 date:   2021-10-29 15:00:00 +0100
-image:  '/images/hippo.jpg'
+image:  'images/hippo.jpg'
 ---
 Depuis le début de la crise sanitaire, le système de santé a été mis en relief. Beaucoup ont dénoncé un manque de moyens aloués aux services de santé et se sont inquiétés de la gestion managériale des hopitaux publics.
 

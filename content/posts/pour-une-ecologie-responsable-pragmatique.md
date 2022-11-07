@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour une écologie responsable et pragmatique
 date:   2021-07-30 17:00:00 +0100
-image:  '/images/saint-exupery.jpg'
+image:  'images/saint-exupery.jpg'
 ---
 Le 29 juillet était le jour du dépassement. Ce jour correspond au moment où nous avons consommé toutes les ressources que la terre peut produire en un an.
 Ce jour n'existait pas l'année de ma naissance et était au mois d'octobre en 2001 à la naissance de mon fils.
