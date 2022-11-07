@@ -46,11 +46,6 @@ theme = 'aditu'
     name = "Twitter"
     link = "https://twitter.com/jparroyo38"
 
-  [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-
   # Other icons can be found at https://ionicons.com/v4/
 
   #-------------------------------
