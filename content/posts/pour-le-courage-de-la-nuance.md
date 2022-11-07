@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour le courage de la nuance
 date:   2021-06-25 15:00:00 +0100
-image:  '/images/plume.jpg'
+image:  'images/plume.jpg'
 ---
 Je me permets de reprendre le titre du récent ouvrage de Jean Birnbaum, pour justifier la création de ce blog.
 

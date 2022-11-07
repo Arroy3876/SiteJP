@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour des olympiades réellement placées sous les signes de la paix et la morale
 date:   2022-02-02 21:00:00 +0100
-image:  '/images/coubertin.jpg'
+image:  'images/coubertin.jpg'
 ---
 Alors que les épreuves des Jeux Olympiques de Pékin 2022 commencent, je m’interroge sur les raisons qui ont poussées le CIO à choisir la capitale Chinoise comme hôte de cette quinzaine olympique. Déjà en 2008 je m’étais posé la même question même si l'enjeu financier est malheureusement prépondérant. 
 De mon point de vue, le CIO ne peut confier les jeux olympiques à un pouvoir qui depuis des décennies bafoue les libertés individuelles et les droits humains.

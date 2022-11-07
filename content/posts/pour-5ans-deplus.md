@@ -1,7 +1,7 @@
 ﻿---
 title:  Pour 5 ans de plus avec Emmanuel Macron
 date:   2022-04-08 15:00:00 +0100
-image:  '/images/jevotemacron.jpg'
+image:  'images/jevotemacron.jpg'
 ---
 A 2 jours du scrutin, j’apporte comme il y a 5 ans mon soutien à Emmanuel Macron et j’explique pourquoi
 

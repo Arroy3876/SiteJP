@@ -1,7 +1,7 @@
 ---
 title:  Pour que la nouvelle année soit la plus sereine possible
 date:   2021-12-31 15:00:00 +0100
-image:  '/images/bonne-annee-2022-image.jpg'
+image:  'images/bonne-annee-2022-image.jpg'
 ---
 
 Au début de l'année 2021 nous pensions sortir de la crise sanitaire avec le début de la campagne vaccinale qui s'annonçait massive. Malheureusement l'apparition de nouveau variants au cours de l'année, le variant delta dans un premier temps suivi il y a quelques semaines du variant Omicron ont changé la donne. Le vaccin bien que fort efficace sur les formes graves perd de son efficacité sur la transmission quand il s'agit de variants plus contagieux. Les Français se sont très maasivement déplacés dans les centres de vaccination pour se protéger et protéger les autres. Ils ont une nouvelle fois à travers cet élan de solidarité démontré leur attachement aux valeurs qui font notre nation. Malheureusement quelques irréductibles individus ne souhaitent toujours pas se vacciner pour diverses raisons. Souvent manipulés par les réseaux sociaux, ils viennent en grande majorité alimenter les services de réanimation de nos hôpitaux et par cet égoïsme surcharger le personnel soignant déjà tant sollicité depuis des années. J'espère que la perspective du pass vaccinal qui devrait rentrer en vigueur au début de l'année saura convaincre les quelques millions de Français encore réticents à prendre le seul traîtement à ce jour qui nous protège du virus.
