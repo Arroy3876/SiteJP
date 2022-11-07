@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://arroy3876.github.io/SiteJP/'
 languageCode = 'fr'
-title = 'My New Hugo Site'
+title = 'Blog Jean-Pierre ARROYO'
 theme = 'aditu'
