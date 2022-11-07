@@ -1,4 +1,75 @@
-baseURL = 'https://arroy3876.github.io/SiteJP/'
-languageCode = 'fr'
-title = 'Blog Jean-Pierre ARROYO'
+
+
+#-------------------------------
+# General Site Settings
+baseURL = "https://arroy3876.github.io/SiteJP/"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+title = "Humeurs d'un progressiste"
+paginate = 9
 theme = 'aditu'
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Qui suis-je ?"
+    url = "/about"
+    weight = 2
+
+
+[params]
+  logo = "" # You can add own logo. For example "/images/logo.png".
+  description = "Blog de Jean-Pierre ARROYO"
+
+  [params.author]
+    name = "Jean-Pierre ARROYO"
+    avatar = "/images/jp_icon.jpg"
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+    hero__title = ""
+    hero__description = ""
+    hero__image = "/images/citation-vh.jpeg"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/jparroyo38"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://facebook.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    disqusShortname = "anvod-studio-aditu" # add your shortname for Disqus Comment. For example anvod-studio-aditu
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
