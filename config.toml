@@ -32,14 +32,14 @@ theme = 'aditu'
 
   [params.author]
     name = "Jean-Pierre ARROYO"
-    avatar = "/images/jp_icon.jpg"
+    avatar = "images/jp_icon.jpg"
 
   #-------------------------------
   # Hero Settings
   [params.hero]
     hero__title = ""
     hero__description = ""
-    hero__image = "/images/citation-vh.jpeg"
+    hero__image = "images/citation-vh.jpeg"
 
   [[params.social]]
     icon = "ion-logo-twitter"
