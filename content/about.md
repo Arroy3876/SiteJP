@@ -6,7 +6,7 @@ image: 'images/mosaique.png'
 Né en 1970, je suis père de 2 enfants. Ingénieur de profession, je me suis engagé en politique en octobre 2016 pour soutenir la dynamique impulsée par Emmanuel Macron. Social et Libéral, en économie comme dans la société, je suis particulièrement attaché aux valeurs de progrès, à la solidarité nationale et européenne. Sensible aux enjeux climatiques, j’inscris ce combat dans une perspective de progrès économique et d’innovation.
 
 <!--
-![Time to think](/images/jp.jpg)
+![Time to think](images/jp.jpg)
 *Jean-Pierre ARROYO*
 
 Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
